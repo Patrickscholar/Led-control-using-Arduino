@@ -1,3 +1,7 @@
+### Name:Patrick alex emmanuel v
+### REG NO:24900019
+
+
 # Led-control-using-Arduino
 
 ## AIM
@@ -58,7 +62,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-<img src="https://github.com/user-attachments/assets/35c2c103-abdd-4c53-bb75-2ebf1d8744a4"widhth="400"height="500"
+![Unknown](https://github.com/user-attachments/assets/3f65b01b-06f8-419f-b29e-c2f8b0797aff)
 
 ## PROGRAM
 ![Unknown-1](https://github.com/user-attachments/assets/51da817b-0787-46cc-96d3-01d7c020a0a7)
