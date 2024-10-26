@@ -66,13 +66,13 @@ Weighing Machines </br>
 
 
 ## PROGRAM
-![Unknown-1](https://github.com/user-attachments/ass ets/51da817b-0787-46cc-96d3-01d7c020a0a7)
+<img src="https://github.com/user-attachments/ass ets/51da817b-0787-46cc-96d3-01d7c020a0a7"  width="400" height="500" />
 
 ## OUTPUT
 LED ON
-![Unknown-2](https://github.com/user-attachments/assets/f2b15416-5380-4df5-8998-cf8f3c817fae)
+<img src="https://github.com/user-attachments/assets/f2b15416-5380-4df5-8998-cf8f3c817fae"  width="400" height="500" />
 
 LED 0FF
-![Unknown-3](https://github.com/user-attachments/assets/1e432d5f-f68f-4bec-92fc-4847cdc49750)
+<img src="https://github.com/user-attachments/assets/1e432d5f-f68f-4bec-92fc-4847cdc49750"  width="400" height="500" />
 
 ## RESULT
