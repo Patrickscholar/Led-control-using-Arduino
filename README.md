@@ -66,7 +66,7 @@ Weighing Machines </br>
 
 
 ## PROGRAM
-<img src="https://github.com/user-attachments/ass ets/51da817b-0787-46cc-96d3-01d7c020a0a7"  width="400" height="500" />
+<img src="https://github.com/user-attachments/assets/6b89ead5-742c-492c-9d46-2c1658bddc2c"  width="400" height="500" />
 
 ## OUTPUT
 LED ON
