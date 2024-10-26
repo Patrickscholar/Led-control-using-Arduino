@@ -68,10 +68,10 @@ Weighing Machines </br>
 ![Unknown-1](https://github.com/user-attachments/assets/51da817b-0787-46cc-96d3-01d7c020a0a7)
 
 ## OUTPUT
-LED OFF
+LED ON
 ![Unknown-2](https://github.com/user-attachments/assets/f2b15416-5380-4df5-8998-cf8f3c817fae)
 
-LED 0N
+LED 0FF
 ![Unknown-3](https://github.com/user-attachments/assets/1e432d5f-f68f-4bec-92fc-4847cdc49750)
 
 ## RESULT
